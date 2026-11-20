@@ -15,19 +15,7 @@
 
 ---
 
-## 🎮 Player Card
-
-```text
-╔════════════════════════════════════════════════════════════╗
-║ P L A Y E R   C A R D                                      ║
-╠════════════════════════════════════════════════════════════╣
-║ GUILD  : Escola Politécnica de Pernambuco (POLI/UPE)       ║
-║ LEVEL  : 8th semester                                      ║
-║ STATUS : ONLINE - open to collabs & opportunities          ║
-╚════════════════════════════════════════════════════════════╝
-```
-
-> 👋 **Hi, there!** I enjoy turning theory into working projects. Take a look around!
+> 👋 **Hi, there!**
 
 ---
 
@@ -69,17 +57,6 @@
     </td>
   </tr>
 </table>
-
----
-
-## 🗺️ Quest Log
-
-| 🏆 Mission | 📝 What it's about |
-| :-- | :-- |
-| **Credit Card Fraud Detection** | Exploring and modeling a public Kaggle dataset to spot fraudulent transactions |
-| **Pandora** | Prototype of an entertainment social network built for the Databases course |
-| **Visaflix (K.A. Filmes)** | Movie rating app built for the Rocket Lab 2026 dev challenge |
-| **V-Energy-Grid-360** | Dev case from Rocket Lab 2026 involving inspection orders |
 
 ---
 
