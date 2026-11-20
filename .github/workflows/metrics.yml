@@ -1,4 +1,3 @@
-
 name: Metrics
 
 on:
@@ -24,7 +23,7 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_days: 14
           plugin_activity_timestamps: yes
-          plugin_activity_filter: push, issue, pr, release, fork, review, ref/create, comment
+          plugin_activity_filter: "push, issue, pr, release, fork, review, ref/create, comment"
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_habits: yes
@@ -32,4 +31,4 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           filename: github-metrics.svg
-ithub-metrics.svg
+
