@@ -115,14 +115,11 @@ timeline
 
 </div>
 
-<!--
-OPTIONAL - uncomment this block after the "Metrics" workflow has generated github-metrics.svg
 
 <div align="center"><img src="https://raw.githubusercontent.com/Rodcamppos/Rodcamppos/main/assets/divider.svg" width="100%" alt="" /></div>
 
 ## 🧬 Advanced Metrics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Rodcamppos/Rodcamppos/main/github-metrics.svg" alt="Advanced GitHub metrics" />
+  <img src="https://raw.githubusercontent.com/Rodcamppos/Rodcamppos/main/github-metrics.svg" alt="Advanced GitHub metrics" width="100%" />
 </div>
--->
