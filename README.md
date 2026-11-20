@@ -1,92 +1,126 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rodrigo%20Campos&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20%7C%20A.I.%20%26%20Cybersecurity&descSize=18&descAlignY=58" alt="Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3500&pause=1200&color=00FF9C&center=true&vCenter=true&width=900&height=80&lines=%3E+PLAYER+ONE+READY...;RODRIGO+CAMPOS;COMPUTER+ENGINEERING+%7C+LVL+8" alt="Rodrigo Campos - Player One" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+there!+%F0%9F%91%8B;Computer+Engineering+Student+%40+POLI%2FUPE;Python+%7C+JavaScript+%7C+Java+%7C+C;Learning+A.I.+%26+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=FF2E97&center=true&vCenter=true&width=700&height=40&lines=Python+%7C+JavaScript+%7C+Java+%7C+C;Main+quest%3A+Artificial+Intelligence;Side+quest%3A+Cybersecurity;Currently+in+the+8th+semester+%F0%9F%8E%93" alt="Skills and quests" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rodcamppos&label=Profile%20views&color=0e75b6&style=flat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodrigo_Campos-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-campos-b1832127a)
-[![Email](https://img.shields.io/badge/Email-rcoc@poli.br-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rcoc@poli.br)
+![Profile Views](https://komarev.com/ghpvc/?username=Rodcamppos&label=PLAYER+VIEWS&color=7B2FF7&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Rodrigo_Campos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-campos-b1832127a)
+[![Email](https://img.shields.io/badge/EMAIL-rcoc@poli.br-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rcoc@poli.br)
+[![Lattes](https://img.shields.io/badge/LATTES-Academic_CV-1F4E79?style=for-the-badge&logo=academia&logoColor=white)](http://lattes.cnpq.br/7146283856142982)
 
 </div>
 
 ---
 
-## 👨‍💻 About me
+## 🎮 Player Card
 
-My name is **Rodrigo Campos**, and I'm currently a Computer Engineering undergraduate student at **Escola Politécnica de Pernambuco (POLI/UPE)**.
+```text
+╔════════════════════════════════════════════════════════════╗
+║ P L A Y E R   C A R D                                      ║
+╠════════════════════════════════════════════════════════════╣
+║ PLAYER     : Rodrigo Campos                                ║
+║ CLASS      : Computer Engineering Undergrad                ║
+║ GUILD      : Escola Politécnica de Pernambuco (POLI/UPE)   ║
+║ LEVEL      : 8th semester                                  ║
+║ WEAPONS    : Python | JavaScript | Java | C                ║
+║ MAIN QUEST : Artificial Intelligence                       ║
+║ SIDE QUEST : Cybersecurity                                 ║
+║ STATUS     : ONLINE - open to collabs & opportunities      ║
+╚════════════════════════════════════════════════════════════╝
+```
 
-- 🔭 **Stack:** Python, JavaScript, Java and C
-- 🌱 **Career focus:** Deepening my knowledge in **Artificial Intelligence** and **Cybersecurity**, building my career around these fields
-- 📫 **Reach me:** via e-mail or LinkedIn (links above and below)
+> 👋 **Hi, there!** I'm **Rodrigo Campos**, a Computer Engineering undergrad at **POLI/UPE**, now in the **8th semester**. I like turning theory into working projects, and I'm putting most of my XP into **Artificial Intelligence** and **Cybersecurity**.
 
 ---
 
-## 🛠️ Tech Stack
+## ⚔️ Skill Tree
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 </div>
 
-### 🧰 Tools & Interests
-
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0B3D91?style=for-the-badge&logo=hackthebox&logoColor=white)
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Main Quest: Artificial Intelligence</h3>
+      <ul>
+        <li>Machine learning with Python</li>
+        <li>Data exploration and analysis</li>
+        <li>Fraud detection on real-world datasets</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ Side Quest: Cybersecurity</h3>
+      <ul>
+        <li>Operating system security</li>
+        <li>Windows hardening best practices</li>
+        <li>Security-oriented mindset in software projects</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 🗺️ Quest Log
+
+| 🏆 Mission | 📝 What it's about | 🔧 Focus |
+| :-- | :-- | :-- |
+| **Credit Card Fraud Detection** | Exploring and modeling a public Kaggle dataset to spot fraudulent transactions | Machine Learning, Python |
+| **Pandora** | Prototype of an entertainment social network built for the Databases course | Databases, Web |
+| **Visaflix (K.A. Filmes)** | Movie rating app built for the Rocket Lab 2026 dev challenge | Web, Full-stack |
+| **V-Energy-Grid-360** | Dev case from Rocket Lab 2026 involving inspection orders | Web, TypeScript |
+| **Windows Hardening Checklist** | Security checklist and presentation for the Operating Systems course | Cybersecurity, Windows |
+
+<details>
+<summary>🔓 <b>Currently grinding (click to expand)</b></summary>
+<br/>
+
+- 🤖 Machine learning and data exploration
+- 🔐 Security fundamentals and system hardening
+- 🗄️ Database design and modeling
+- 🧩 Building full projects from idea to delivery
+
+</details>
+
+---
+
+## 📊 Player Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rodcamppos&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodcamppos&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rodcamppos&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodcamppos&layout=compact&theme=radical&hide_border=true" alt="Most used languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rodcamppos&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=Rodcamppos&theme=radical&hide_border=true" alt="GitHub streak" />
 
 </div>
 
 ---
 
-## 🏆 Trophies
+## 📡 Multiplayer Mode
+
+I'm always open to talking about **A.I., Cybersecurity, software projects and opportunities**. Press **START** to connect!
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rodcamppos&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-campos-b1832127a)
+[![Email](https://img.shields.io/badge/EMAIL-SEND_A_MESSAGE-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rcoc@poli.br)
+[![Lattes](https://img.shields.io/badge/LATTES-ACADEMIC_CV-1F4E79?style=for-the-badge&logo=academia&logoColor=white)](http://lattes.cnpq.br/7146283856142982)
 
-</div>
+<br/>
 
----
-
-## 🤝 Let's connect
-
-I'm always open to talking about **A.I., Cybersecurity, software projects and opportunities**. Feel free to reach out!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-campos-b1832127a)
-[![Email](https://img.shields.io/badge/Email-Send_a_message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rcoc@poli.br)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="Footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2500&pause=800&color=7B2FF7&center=true&vCenter=true&width=700&height=50&lines=THANKS+FOR+STOPPING+BY!;PRESS+START+TO+COLLAB+%F0%9F%95%B9%EF%B8%8F" alt="Thanks for stopping by" />
 
 </div>
 
