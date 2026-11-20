@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Rodcamppos/Rodcamppos/main/assets/banner.svg" width="100%" alt="Futuristic animated banner" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3500&pause=1200&color=1E90FF&center=true&vCenter=true&width=900&height=80&lines=RODRIGO+CAMPOS;COMPUTER+ENGINEERING+STUDENT;ESCOLA+POLIT%C3%89CNICA+DE+PERNAMBUCO;UNIVERSIDADE+DE+PERNAMBUCO" alt="Rodrigo Campos - Computer Engineering Student - Escola Politécnica de Pernambuco (Universidade de Pernambuco)" />
 
 <br/>
@@ -10,11 +12,34 @@
 
 </div>
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/Rodcamppos/Rodcamppos/main/assets/divider.svg" width="100%" alt="" /></div>
 
-👋 **Hi, there!** My current area of work is **full stack development**, with a strong interest in **artificial intelligence** and **data engineering**.
+## 👋 Welcome
 
----
+Welcome to my GitHub profile. My current area of work and study is **full stack development**, with a strong interest in **artificial intelligence** and **data engineering**. I am committed to developing more projects and sharing them here. In the sections below, you will find the languages and technologies I have worked with, along with statistics about my development history on GitHub. I hope you enjoy it.
+
+```text
+rodrigo@poli:~$ whoami
+rodrigo-campos
+
+rodrigo@poli:~$ cat mission.txt
+Turning ideas into working software and data into insight.
+
+rodrigo@poli:~$ status
+[ OK ] learning
+[ OK ] building
+[ OK ] shipping side projects
+```
+
+<details>
+<summary>🇧🇷 <b>Leia em português</b></summary>
+<br/>
+
+Bem-vindo ao meu perfil no GitHub. Minha área atual de atuação e estudo é o **desenvolvimento full stack**, com grande interesse em **inteligência artificial** e **engenharia de dados**. Pretendo desenvolver ainda mais projetos e compartilhá-los aqui. Nas seções abaixo, você encontrará as linguagens e tecnologias com as quais já trabalhei, além de estatísticas sobre meu histórico de desenvolvimento no GitHub. Espero que goste!
+
+</details>
+
+<div align="center"><img src="https://raw.githubusercontent.com/Rodcamppos/Rodcamppos/main/assets/divider.svg" width="100%" alt="" /></div>
 
 ## ⚔️ Languages and Technologies
 
@@ -46,7 +71,31 @@
 
 </div>
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/Rodcamppos/Rodcamppos/main/assets/divider.svg" width="100%" alt="" /></div>
+
+## 🚀 Featured Projects
+
+| 🏆 Project | 📝 Description |
+| :-- | :-- |
+| **Credit Card Fraud Detection** | Exploration and modeling of a public Kaggle dataset to identify fraudulent transactions |
+| **Pandora** | Prototype of an entertainment social network, developed for the Databases course |
+| **Visaflix (K.A. Filmes)** | Movie rating application developed for the Rocket Lab 2026 dev challenge |
+| **V-Energy-Grid-360** | Development case from Rocket Lab 2026 involving inspection orders |
+
+<div align="center"><img src="https://raw.githubusercontent.com/Rodcamppos/Rodcamppos/main/assets/divider.svg" width="100%" alt="" /></div>
+
+## 🧭 Journey
+
+```mermaid
+timeline
+    title My Journey
+    2023 : Started contributing on GitHub
+    2026 : Rocket Lab 2026 dev challenge (Visagio)
+         : Machine learning and databases course projects
+         : 8th semester of Computer Engineering at POLI/UPE
+```
+
+<div align="center"><img src="https://raw.githubusercontent.com/Rodcamppos/Rodcamppos/main/assets/divider.svg" width="100%" alt="" /></div>
 
 ## 📊 Git Stats
 
@@ -71,7 +120,16 @@
 
 </div>
 
-## 🐍 Contribution Log 
+<div align="center"><img src="https://raw.githubusercontent.com/Rodcamppos/Rodcamppos/main/assets/divider.svg" width="100%" alt="" /></div>
+
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<div align="center"><img src="https://raw.githubusercontent.com/Rodcamppos/Rodcamppos/main/assets/divider.svg" width="100%" alt="" /></div>
+
+## 🐍 Contribution Log
 
 <div align="center">
 
@@ -82,3 +140,15 @@
 </picture>
 
 </div>
+
+<!--
+OPTIONAL - uncomment this block after the "Metrics" workflow has generated github-metrics.svg
+
+<div align="center"><img src="https://raw.githubusercontent.com/Rodcamppos/Rodcamppos/main/assets/divider.svg" width="100%" alt="" /></div>
+
+## 🧬 Advanced Metrics
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Rodcamppos/Rodcamppos/main/github-metrics.svg" alt="Advanced GitHub metrics" />
+</div>
+-->
