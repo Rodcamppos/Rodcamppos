@@ -94,15 +94,6 @@ timeline
 
 </div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/Rodcamppos/Rodcamppos/main/assets/divider.svg" width="100%" alt="" /></div>
-
-## ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<div align="center"><img src="https://raw.githubusercontent.com/Rodcamppos/Rodcamppos/main/assets/divider.svg" width="100%" alt="" /></div>
-
 ## 🐍 Contribution Log
 
 <div align="center">
