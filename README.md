@@ -18,18 +18,6 @@
 
 Welcome to my GitHub profile. My current area of work and study is **full stack development**, with a strong interest in **artificial intelligence** and **data engineering**. I am committed to developing more projects and sharing them here. In the sections below, you will find the languages and technologies I have worked with, along with statistics about my development history on GitHub. I hope you enjoy it.
 
-```text
-rodrigo@poli:~$ whoami
-rodrigo-campos
-
-rodrigo@poli:~$ cat mission.txt
-Turning ideas into working software and data into insight.
-
-rodrigo@poli:~$ status
-[ OK ] learning
-[ OK ] building
-[ OK ] shipping side projects
-```
 
 <details>
 <summary>🇧🇷 <b>Leia em português</b></summary>
@@ -71,28 +59,14 @@ Bem-vindo ao meu perfil no GitHub. Minha área atual de atuação e estudo é o 
 
 </div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/Rodcamppos/Rodcamppos/main/assets/divider.svg" width="100%" alt="" /></div>
-
-## 🚀 Featured Projects
-
-| 🏆 Project | 📝 Description |
-| :-- | :-- |
-| **Credit Card Fraud Detection** | Exploration and modeling of a public Kaggle dataset to identify fraudulent transactions |
-| **Pandora** | Prototype of an entertainment social network, developed for the Databases course |
-| **Visaflix (K.A. Filmes)** | Movie rating application developed for the Rocket Lab 2026 dev challenge |
-| **V-Energy-Grid-360** | Development case from Rocket Lab 2026 involving inspection orders |
-
-<div align="center"><img src="https://raw.githubusercontent.com/Rodcamppos/Rodcamppos/main/assets/divider.svg" width="100%" alt="" /></div>
-
 ## 🧭 Journey
 
 ```mermaid
 timeline
     title My Journey
     2023 : Started contributing on GitHub
-    2026 : Rocket Lab 2026 dev challenge (Visagio)
-         : Machine learning and databases course projects
-         : 8th semester of Computer Engineering at POLI/UPE
+    2026 : Rocket Lab 2026 (Visagio)
+    2023 - Today : Sundry projects, which some of them are for college courses, others through partnerships with companies, institutions or government, and still others out of a sheer desire to develop.         
 ```
 
 <div align="center"><img src="https://raw.githubusercontent.com/Rodcamppos/Rodcamppos/main/assets/divider.svg" width="100%" alt="" /></div>
