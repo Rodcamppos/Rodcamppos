@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3500&pause=1200&color=1E90FF&center=true&vCenter=true&width=900&height=80&lines=%3E+PLAYER+ONE+READY...;RODRIGO+CAMPOS" alt="Rodrigo Campos - Player One" />
-
-`Computer Engineering Undergraduate`
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3500&pause=1200&color=1E90FF&center=true&vCenter=true&width=900&height=80&lines=%3E+PLAYER+ONE+READY...;RODRIGO+CAMPOS" alt="Rodrigo Campos - Computer Engineering Student - Escola Politécnica de Pernambuco (Universidade de Pernambuco)" />
 
 <br/>
 
@@ -32,31 +30,7 @@
 
 ---
 
-## 🧭 Quests
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 Main Quest: Artificial Intelligence</h3>
-      <ul>
-        <li>Machine learning</li>
-        <li>Predictive modeling on real-world datasets</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🗄️ Side Quest: Data Engineering</h3>
-      <ul>
-        <li>Data pipelines and ETL</li>
-        <li>Data modeling and databases</li>
-        <li>Data exploration and analysis</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 Player Stats
+## 📊 Stats
 
 <div align="center">
 
