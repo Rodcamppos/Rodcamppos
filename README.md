@@ -15,10 +15,6 @@
 
 ---
 
-> 👋 **Hi, there!**
-
----
-
 ## ⚔️ Skill Tree
 
 <div align="center">
