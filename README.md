@@ -14,7 +14,7 @@
 
 <div align="center"><img src="https://raw.githubusercontent.com/Rodcamppos/Rodcamppos/main/assets/divider.svg" width="100%" alt="" /></div>
 
-## 👋 Welcome
+## 👋 Hi, there!
 
 Welcome to my GitHub profile. My current area of work and study is **full stack development**, with a strong interest in **artificial intelligence** and **data engineering**. I am committed to developing more projects and sharing them here. In the sections below, you will find the languages and technologies I have worked with, along with statistics about my development history on GitHub. I hope you enjoy it.
 
