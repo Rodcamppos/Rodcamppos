@@ -1,8 +1,9 @@
+
 name: Metrics
 
 on:
   schedule:
-    - cron: "0 3 * * *"   # todo dia, 03:00 UTC
+    - cron: "0 6 * * *"
   workflow_dispatch:
 
 permissions:
@@ -19,6 +20,11 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Recife
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_timestamps: yes
+          plugin_activity_filter: push, issue, pr, release, fork, review, ref/create, comment
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_habits: yes
@@ -26,3 +32,4 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           filename: github-metrics.svg
+ithub-metrics.svg
